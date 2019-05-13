@@ -27,6 +27,6 @@ if (age >= 18) {
     alert((alert("conclusión, eres derito")))
     console.log(te * 4)
 }
-console.log("este es el espacio de r en la expresión toma cerveza:  ")
-console.log("toma cerveza".indexOf("r"))
+// console.log("este es el espacio de r en la expresión toma cerveza:  ")
+// console.log("toma cerveza".indexOf("r"))
 
